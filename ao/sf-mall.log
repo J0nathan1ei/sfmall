@@ -1,0 +1,19 @@
+2022-01-07T21:49:02.375+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-07T21:54:49.828+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-07T22:01:09.746+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-07T22:28:16.731+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-07T22:29:04.276+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-07T22:29:26.369+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-07T22:29:26.823+0800	ERROR	dao/dao.go:201	exec failed:Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'END, sales=CASE product.id END WHERE product.id IN )' at line 1, sql:UPDATE product SET amount=CASE product.id END, sales=CASE product.id END WHERE product.id IN )
+2022-01-07T22:32:46.603+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-07T22:33:58.053+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-07T22:34:39.568+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-07T22:36:43.400+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-08T09:27:20.667+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-08T09:28:03.382+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-08T09:29:13.370+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-08T09:30:02.488+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-08T09:34:01.207+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-08T09:59:37.928+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-08T10:25:33.625+0800	INFO	dao/dao.go:31	connect mysql success
+2022-01-08T10:26:06.642+0800	INFO	dao/dao.go:31	connect mysql success

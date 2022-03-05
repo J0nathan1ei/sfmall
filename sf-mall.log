@@ -1,0 +1,10 @@
+2021-12-25T14:44:36.210+0800	INFO	dao/dao.go:31	connect mysql success
+2021-12-25T14:46:49.716+0800	INFO	dao/dao.go:31	connect mysql success
+2021-12-25T14:48:42.277+0800	INFO	dao/dao.go:31	connect mysql success
+2021-12-25T14:49:52.046+0800	INFO	dao/dao.go:31	connect mysql success
+2021-12-25T14:52:08.136+0800	INFO	dao/dao.go:31	connect mysql success
+2021-12-25T14:54:25.082+0800	INFO	dao/dao.go:31	connect mysql success
+2021-12-25T14:57:54.005+0800	INFO	dao/dao.go:31	connect mysql success
+2021-12-25T14:58:18.639+0800	INFO	dao/dao.go:31	connect mysql success
+2021-12-25T15:03:57.641+0800	INFO	dao/dao.go:31	connect mysql success
+2021-12-25T15:50:09.007+0800	INFO	dao/dao.go:31	connect mysql success
